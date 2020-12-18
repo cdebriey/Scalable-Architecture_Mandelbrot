@@ -4,7 +4,7 @@
 
 
 /** Nombre de threads */
-#define NB_THREADS 2
+#define NB_THREADS 4
 
 /* Taille de l'image de sortie */
 const unsigned int OUTPUT_WIDTH = 1920;
